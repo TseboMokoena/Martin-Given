@@ -1732,9 +1732,9 @@ body:after {
 
 .team-member .position {
   color: #959595;
-  text-transform: uppercase;
   font-size: .8rem;
-  letter-spacing: .05rem; }
+  letter-spacing: .05rem;
+  margin: 0%; }
 
 .team-member:hover .social {
   -webkit-transform: translateX(0%);
